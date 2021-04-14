@@ -1,6 +1,10 @@
 # I See You - AWS DeepLens Facial Recognition
 This project was developed during the Summer Innovation Week at CRITICAL Software (2018).
 
+![](https://img.shields.io/badge/CRITICAL%20Software-SIW%202018-red)
+![](https://img.shields.io/badge/Made%20with-Python-blue)
+![](https://img.shields.io/badge/AWS-DeepLens-blue)
+
 ## Description
 
 The project focused on the creation of an inteligent lens prototype capable of recognizing humans amongst other visual elements and identifying faces with high precision. 
